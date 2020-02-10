@@ -12,4 +12,4 @@ twitter: https://twitter.com/relativeread
 
 # Organize Git Repos By Date
 
-Organizes git repos by creation date for a given username
+Organizes git repos by creation date for a given username using Github's API. 
