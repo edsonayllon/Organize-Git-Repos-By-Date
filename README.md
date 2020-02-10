@@ -13,3 +13,11 @@ twitter: https://twitter.com/relativeread
 # Organize Git Repos By Date
 
 Organizes git repos by creation date for a given username using Github's API. 
+
+## 1. Getting Started
+
+Run with node.js. 
+
+ ```
+ node app.js
+ ```
