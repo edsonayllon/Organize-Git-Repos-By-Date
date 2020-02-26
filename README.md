@@ -16,8 +16,9 @@ Organizes git repos by creation date for a given username using Github's API.
 
 ## 1. Getting Started
 
-Run with node.js. 
+Install dependencies then run:
 
  ```
- node app.js
+ yarn
+ yarn start || node app.js
  ```

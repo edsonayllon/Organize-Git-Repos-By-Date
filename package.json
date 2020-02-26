@@ -1,0 +1,27 @@
+{
+  "name": "organize-git-repos-by-date",
+  "version": "1.0.0",
+  "description": "--- author: Edson Ayllon category: functionality tags: - API - Github status: complete twitter: https://twitter.com/relativeread ---",
+  "main": "app.js",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edsonayllon/Organize-Git-Repos-By-Date.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Edson Ayllon <mail@edsonayllon.com> (http://edsonayllon.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edsonayllon/Organize-Git-Repos-By-Date/issues"
+  },
+  "homepage": "https://github.com/edsonayllon/Organize-Git-Repos-By-Date#readme"
+}
