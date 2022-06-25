@@ -4,7 +4,7 @@
   "description": "--- author: Edson Ayllon category: functionality tags: - API - Github status: complete twitter: https://twitter.com/relativeread ---",
   "main": "app.js",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.7"
   },
   "devDependencies": {},
   "scripts": {
